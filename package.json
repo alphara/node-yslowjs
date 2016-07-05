@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmervine/yslowjs.git"
+    "url": "git@github.com:alphara/node-yslowjs.git"
   },
   "keywords": [
     "yslow",
@@ -27,7 +27,7 @@
     "url": "https://github.com/jmervine/yslowjs/issues"
   },
   "dependencies": {
-    "phapper": "~0.1.9"
+    "phapper": "alphara/phapper"
   },
   "devDependencies": {
     "nodeunit": "~0.8.1"
