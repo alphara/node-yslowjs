@@ -19,7 +19,8 @@
     "yslow",
     "phantomjs",
     "yslow.js",
-    "performance"
+    "performance",
+    "alphara"
   ],
   "author": "Joshua Mervine <joshua@mervine.net> (http://mervine.net)",
   "license": "BSD",
@@ -27,7 +28,7 @@
     "url": "https://github.com/jmervine/yslowjs/issues"
   },
   "dependencies": {
-    "phapper": "alphara/phapper"
+    "phapper": "ptqa/phapper"
   },
   "devDependencies": {
     "nodeunit": "~0.8.1"
